@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "flow3r-pot")(type "KiCad")(uri "$(KIPRJMOD)/flow3r-pot.pretty")(options "")(descr ""))
+)
