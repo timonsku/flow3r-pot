@@ -16,3 +16,5 @@ Or modify it and put SWD on those pins instead. None of this is USB-C compliant 
 You can also do spicy things like supply an external VBUS via the pin headers.
 
 The 2x USB-A connectors just break out the available extra ports on the USB hub. They are completely optional and are standard USB ports, nothing special about them. Purely for convenience and because we can (and its very cheap).
+
+![flow3r pot](flow3r-pot.png "flow3r pot")
